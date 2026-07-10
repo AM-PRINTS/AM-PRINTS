@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Bengal Tiger T-Shirt",
+    "price": "499",
+    "image": "https://via.placeholder.com/300x300.png?text=Tiger+Tee"
+  },
+  {
+    "id": 2,
+    "name": "Kolkata City T-Shirt", 
+    "price": "599",
+    "image": "https://via.placeholder.com/300x300.png?text=Kolkata+Tee"
+  }
+]
