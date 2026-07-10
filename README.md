@@ -5,7 +5,7 @@ URL: /admin
 Password: amprints2026
 
 ## WhatsApp Number
-Edit pages/index.js line 22: const whatsapp = '919999999999'
+Edit pages/index.js line 22: const whatsapp = '917602143323'
 Replace with your number.
 
 ## Deploy on Vercel
