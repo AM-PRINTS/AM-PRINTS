@@ -6,7 +6,7 @@ export default function Home() {
   useEffect(() => {
     fetch('/api/products').then(res => res.json()).then(setProducts);
   }, []);
-  const whatsapp = '919614820656'; // Apna WhatsApp number daal de
+  const whatsapp = '917602143323'; // Apna WhatsApp number daal de
 
   return (
     <>
